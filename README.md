@@ -16,7 +16,7 @@ O Rota Viva e um guia de viagem com destinos brasileiros, detalhes de cada local
 ## Tecnologias
 
 - React Native
-- Expo SDK 55
+- Expo SDK 54
 - JavaScript
 - AsyncStorage
 - Expo Location
@@ -56,4 +56,3 @@ Para testar em aparelho fisico, use o QR Code exibido pelo Expo. GPS, camera, ga
 - Tirar uma foto ou escolher uma imagem da galeria.
 - Abrir a aba Sensor e iniciar o acelerometro.
 - Mostrar o historico de commits no GitHub.
-
