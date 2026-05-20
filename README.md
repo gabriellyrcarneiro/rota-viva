@@ -1,8 +1,8 @@
 # Rota Viva
 
-Aplicativo mobile em React Native + Expo para o Projeto Extra da disciplina Desenvolvimento para Dispositivos Moveis - 2026.1.
+Aplicativo mobile em **React Native + Expo** para o Projeto Extra da disciplina Desenvolvimento para **Dispositivos Moveis - 2026.1.**
 
-O Rota Viva e um guia de viagem com destinos brasileiros, detalhes de cada local, cadastro de rotas, GPS, camera/galeria e sensor de movimento.
+O Rota Viva é **um guia de viagem com destinos brasileiros**, detalhes de cada local, cadastro de rotas, GPS, camera/galeria e sensor de movimento.
 
 ## Funcionalidades
 
@@ -56,3 +56,5 @@ Para testar em aparelho fisico, use o QR Code exibido pelo Expo. GPS, camera, ga
 - Tirar uma foto ou escolher uma imagem da galeria.
 - Abrir a aba Sensor e iniciar o acelerometro.
 - Mostrar o historico de commits no GitHub.
+
+- ## Feito por: **Gabrielly Rodrigues**
