@@ -62,4 +62,4 @@ Para testar em aparelho fisico, use o QR Code exibido pelo Expo. GPS, camera, ga
 
 
 ## Feito por: 
-** 👩‍🎓 🚀 Gabrielly Rodrigues**
+👩‍🎓 🚀 **Gabrielly Rodrigues**
