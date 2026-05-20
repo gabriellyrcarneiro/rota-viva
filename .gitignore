@@ -1,6 +1,7 @@
 node_modules/
 .expo/
 dist/
+dist-check/
 web-build/
 npm-debug.*
 yarn-debug.*
@@ -8,4 +9,3 @@ yarn-error.*
 .env
 .env.*
 *.log
-
