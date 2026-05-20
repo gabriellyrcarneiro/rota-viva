@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Rota Viva",
+    "slug": "rota-viva",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "rotaviva",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gabrielly.rotaviva",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "O Rota Viva usa sua localização para calcular a distância até destinos brasileiros.",
+        "NSCameraUsageDescription": "O Rota Viva usa a câmera para registrar fotos das suas rotas.",
+        "NSPhotoLibraryUsageDescription": "O Rota Viva acessa sua galeria para anexar fotos às rotas."
+      }
+    },
+    "android": {
+      "package": "com.gabrielly.rotaviva",
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "CAMERA",
+        "READ_MEDIA_IMAGES"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Permita que o Rota Viva use sua localização para sugerir destinos próximos."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Permita que o Rota Viva selecione fotos da sua galeria.",
+          "cameraPermission": "Permita que o Rota Viva tire fotos para registrar suas viagens."
+        }
+      ]
+    ]
+  }
+}
+
