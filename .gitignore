@@ -2,6 +2,7 @@ node_modules/
 .expo/
 dist/
 dist-check/
+dist-web-check/
 web-build/
 npm-debug.*
 yarn-debug.*
