@@ -15,16 +15,15 @@ O Rota Viva é **um guia de viagem com destinos brasileiros**, detalhes de cada 
 
 ## Prints do projeto
 
-![Tela de destinos]!<img width="250" height="1600" alt="rotaviva1" src="https://github.com/user-attachments/assets/1927fe48-01fa-430f-b10a-476cf5f56b1e" />
+<p align="center">
+  <img width="220" alt="Tela de destinos" src="https://github.com/user-attachments/assets/1927fe48-01fa-430f-b10a-476cf5f56b1e" />
+  <img width="220" alt="Detalhes do destino" src="https://github.com/user-attachments/assets/c0fedd3b-8bfa-4f5e-aa11-0a39bbb304a1" />
+</p>
 
-![Detalhes do destino]!<img width="250" height="1600" alt="rotaviva2" src="https://github.com/user-attachments/assets/c0fedd3b-8bfa-4f5e-aa11-0a39bbb304a1" />
-
-![Cadastro de rotas]!<img width="250" height="1600" alt="rotaviva3" src="https://github.com/user-attachments/assets/5b9853f1-e54e-4568-af20-91c15e78fe4f" />
-
-![Sensor de movimento]!<img width="250" height="1600" alt="rotaviva4" src="https://github.com/user-attachments/assets/c0c68d87-08bc-4fca-b7ae-ddfcbd921761" />
-
-
-
+<p align="center">
+  <img width="220" alt="Cadastro de rotas" src="https://github.com/user-attachments/assets/5b9853f1-e54e-4568-af20-91c15e78fe4f" />
+  <img width="220" alt="Sensor de movimento" src="https://github.com/user-attachments/assets/c0c68d87-08bc-4fca-b7ae-ddfcbd921761" />
+</p>
 
 ## Tecnologias
 
