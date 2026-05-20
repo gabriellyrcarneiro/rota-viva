@@ -46,10 +46,10 @@ Depois, abra o app pelo Expo Go no celular ou por um emulador Android/iOS.
 
 Para testar em aparelho fisico, use o QR Code exibido pelo Expo. GPS, camera, galeria e acelerometro funcionam melhor no celular real.
 
-## Permissoes usadas
+## Permissões usadas
 
-- Localizacao: calcular distancias e salvar um ponto GPS na rota.
-- Camera: tirar uma foto para o diario visual.
+- Localização: calcular distâncias e salvar um ponto GPS na rota.
+- Câmera: tirar uma foto para o diário visual.
 - Galeria: selecionar uma imagem existente.
 - Sensor de movimento: ler o acelerometro do aparelho.
 
@@ -59,14 +59,6 @@ Para testar em aparelho fisico, use o QR Code exibido pelo Expo. GPS, camera, ga
 - `app.json`: configuracoes do Expo e permissoes nativas.
 - `index.js`: registro do componente principal.
 
-## Checklist de avaliacao
 
-- Abrir a aba Destinos e mostrar a lista.
-- Entrar em um destino e mostrar detalhes do local.
-- Usar o botao de GPS e mostrar as coordenadas/distancia.
-- Cadastrar uma rota na aba Rotas.
-- Tirar uma foto ou escolher uma imagem da galeria.
-- Abrir a aba Sensor e iniciar o acelerometro.
-- Mostrar o historico de commits no GitHub.
 
 ## Feito por: **Gabrielly Rodrigues**
